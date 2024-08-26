@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: rgba(0, 0, 0, 0.3) url("contact.png");
+  background-blend-mode: darken;
+  background-size: cover;
+}
+nav {
+  box-sizing: border-box;
+  border: 2px solid rgb(245, 15, 249);
+  background-color: #fff;
+  position: fixed;
+  display: flex;
+  top: 0;
+  left: 0;
+  width: 100%;
+  align-items: center;
+}
